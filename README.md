@@ -8,11 +8,7 @@
 
 Prazer meu nome é Breno Santos.
 
-- Trabalhando como DevOps Engineer na **mLabs**
-- Techs: Docker, Kubernetes, AWS, Docker, Terraform, Jenkins e mais!
-
 - :man_technologist: Trabalho como DevOps Engineer.
 - :blue_heart: Techs: Docker, Kubernetes, AWS, Docker, Terraform, Jenkins, Shell...
 - :books: Estudando GCP e Azure
 - :joystick: Games, Séries, Filmes e Animes
----
