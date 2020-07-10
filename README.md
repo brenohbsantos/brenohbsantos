@@ -4,11 +4,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/breno-santosdevops/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:breno.santosjc@gmail.com)
 
-## Olá 👋
+## Olá e bem-vindo 👋
 
 Prazer meu nome é Breno Santos.
 
 - Trabalhando como DevOps Engineer na **mLabs**
 - Techs: Docker, Kubernetes, AWS, Docker, Terraform, Jenkins e mais!
 
+- :man_technologist: Trabalho como DevOps Engineer.
+- :blue_heart: Techs: Docker, Kubernetes, AWS, Docker, Terraform, Jenkins, Shell...
+- :books: Estudando GCP e Azure
+- :joystick: Games, Séries, Filmes e Animes
 ---
