@@ -9,6 +9,6 @@
 Prazer meu nome é Breno Santos.
 
 - :man_technologist: Trabalho como DevOps Engineer.
-- :blue_heart: Techs: Docker, Kubernetes, AWS, Docker, Terraform, Jenkins, Shell...
-- :books: Estudando GCP e Azure
-- :joystick: Games, Séries, Filmes e Animes
+- :blue_heart: Techs: Docker, Kubernetes, AWS, Terraform, Jenkins, Shell...
+- :books: Estudando: GCP e Azure
+- :joystick: Hobbies: Games, Séries, Filmes e Animes
