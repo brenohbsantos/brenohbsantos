@@ -16,3 +16,4 @@ jobs:
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           project: TESTE
           column: Weekly
+          Iteration: Iteration 2
