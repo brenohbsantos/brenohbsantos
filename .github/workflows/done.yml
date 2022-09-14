@@ -1,4 +1,4 @@
-name: Add To GitHub projects
+name: Close issue
 
 on:
   issues:
